@@ -2,7 +2,7 @@
   "name": "HTML-escaper",
   "main": "./lib/html-escaper",
   "version": "0.0.0",
-  "description": "Escape the selected HTML string.",
+  "description": "Atom package that escapes the selected HTML string.",
   "keywords": [
   ],
   "activationCommands": {

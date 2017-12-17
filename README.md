@@ -1,5 +1,5 @@
 # HTML-escaper
 
-Escape the selected HTML string.
+Atom package that escapes the selected HTML string.
 
 Can escape with `Ctrl-Alt-e`.
