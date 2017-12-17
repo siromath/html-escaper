@@ -1,0 +1,31 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "HTML-escaper",
+        "submenu": [
+          {
+            "label": "Escape",
+            "command": "HTML-escaper:Escape"
+          }
+        ]
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "HTML-escaper",
+          "submenu": [
+            {
+              "label": "Escape",
+              "command": "HTML-escaper:Escape"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
