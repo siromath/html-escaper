@@ -1,10 +1,9 @@
 {
   "name": "HTML-escaper",
   "main": "./lib/html-escaper",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Atom package that escapes the selected HTML string.",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "HTML-escaper:Escape"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
