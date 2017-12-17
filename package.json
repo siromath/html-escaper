@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "HTML-escaper:Escape"
   },
-  "repository": "https://github.com/atom/html-escaper",
+  "repository": "https://github.com/siromath/html-escaper",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
